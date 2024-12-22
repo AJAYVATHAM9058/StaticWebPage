@@ -86,7 +86,7 @@
     background-color: #153243;
     border: none;
     color: white;
-    transition: background-color,500ms ease;
+    transition: background-color,1000ms ease;
     cursor: pointer;
 
 }
@@ -147,7 +147,7 @@
     letter-spacing: 2px;
     background-color: #153243;
     border: none;
-    transition: background-color,500ms ease;
+    transition: background-color,1000ms ease;
     cursor: pointer;
 }
 
@@ -165,7 +165,7 @@
     width: 163px;
     letter-spacing: 2px;
     background-color: #153243;
-    transition: background-color,500ms ease;
+    transition: background-color,1000ms ease;
     cursor: pointer;
 } 
 
