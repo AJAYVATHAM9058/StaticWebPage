@@ -196,11 +196,13 @@
 }
 
 .page2 #content1 #image2 {
-    background-image: url("./assets/asset\ 9.jpeg");
+    /* background-image: url("./assets/asset\ 9.jpeg"); */
+    background: linear-gradient(rgba(0, 15, 43, 0.45), rgba(16, 1, 1, 0.205), rgba(100, 86, 89, 0.45)), url("./assets/asset\ 9.jpeg");
     background-size: cover;
     background-position: center;
     height: 336px;
     width: 360px;
+    border-radius: 10px;
     
     display: flex;
     align-items: center;
@@ -210,7 +212,7 @@
 }
 
 .page2 #content1 #image2:hover {
-    background-image: url("./assets/asset\ 9.jpeg");
+    /* background-image: url("./assets/asset\ 9.jpeg"); */
     background: linear-gradient(rgba(58,58,58,0.45),rgba(58,58,58,0.35),rgba(58,58,58,0.4)),url("./assets/asset\ 9.jpeg");
     background-size: cover;
     background-position: center;
@@ -225,7 +227,8 @@
 }
 
 .page2 #content1 #image3 {
-    background-image: url("./assets/asset\ 10.jpeg");
+    /* background-image: url("./assets/asset\ 10.jpeg"); */
+    background: linear-gradient(rgba(0, 15, 43, 0.45), rgba(16, 1, 1, 0.205), rgba(100, 86, 89, 0.45)), url("./assets/asset\ 10.jpeg");
     background-size: cover;
     background-position: center;
     height: 336px;
@@ -249,7 +252,8 @@
 }
 
 .page2 #content1 #image4 {
-    background-image: url("./assets/asset\ 11.jpeg");
+    /* background-image: url("./assets/asset\ 11.jpeg"); */
+    background: linear-gradient(rgba(0, 15, 43, 0.45), rgba(16, 1, 1, 0.205), rgba(100, 86, 89, 0.45)), url("./assets/asset\ 11.jpeg");
     background-size: cover;
     background-position: center;
     height: 336px;
