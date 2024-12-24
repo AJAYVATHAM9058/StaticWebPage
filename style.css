@@ -5,6 +5,9 @@
 
 
 }
+body{
+    overflow-x: hidden;
+}
 
 /* Page 1 Content */
 
