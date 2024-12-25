@@ -12,14 +12,15 @@ body{
 /* Page 1 Content */
 
 .page1 {
-    height: 100vh;
-    width: 100vw;
+    height: 730px;
+    width: 1520px;
     display: flex;
     flex-direction: column;
     /* background-color: rgba(70, 70, 70, 0.66);     */
     background: linear-gradient(rgba(0, 15, 43, 0.45), rgba(16, 1, 1, 0.205), rgba(100, 86, 89, 0.45)), url("./assets/asset\ 8.jpeg");
     /* background: url("./assets/asset\ 8.jpeg"); */
     background-size: cover;
+    /* background-attachment: fixed; */
     background-repeat: no-repeat;
     /* overflow: scroll; */
 
@@ -183,7 +184,9 @@ body{
 .page2 {
     height: 884px;
     width: 100vw;
+    /* background: linear-gradient(rgb(244, 145, 7),rgb(243, 244, 241),rgb(68, 233, 8)); */
     /* background-color: gray; */
+    
 
 }
 
